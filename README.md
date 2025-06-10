@@ -1,6 +1,6 @@
 # 🥔 Potato Leaf Disease Classifier
 
-This project provides a user-friendly website designed to help potato farmers diagnose leaf diseases. By uploading an image of a potato plant leaf, the system automatically classifies it into one of the following categories:
+This personal project provides a user-friendly website designed to help potato farmers diagnose leaf diseases. By uploading an image of a potato plant leaf, the system automatically classifies it into one of the following categories:
 
 - ✅ Healthy  
 - 🌫️ Early Blight  
@@ -20,8 +20,9 @@ This project provides a user-friendly website designed to help potato farmers di
 
 ## 💡 Features
 
-- **Intuitive web interface** for uploading potato leaf images.
+- **Intuitive and easy web interface** for uploading potato leaf images.
 - **Fast and accurate disease prediction** using a trained CNN.
+- The model has been developed using TensorFlow and Keras for deep learning.
 
 ---
 
